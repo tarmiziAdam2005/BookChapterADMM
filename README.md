@@ -1,6 +1,8 @@
 # BookChapterADMM
 Code to reproduce the applications of the ADMM in the book chapter : "The Alternating Direction Method of Multipliers (ADMM) for Large-scale Convex Optimization Problems: Applications in Image and Signal Processing"
+
 Suggested citation (bibtex):
+
 @inbook{adam23,
 	author    = {Adam, Tarmizi and Mohamed, Nur Syarafina and Hassan, Mohd Fikree and Paramesran, Raveendran},
 	title     = {The Alternating Direction Method of Multipliers (ADMM) for Large-scale Convex Optimization Problems: Applications in Image and Signal Processing},
